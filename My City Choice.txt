@@ -1,0 +1,2 @@
+
+For the Intro to MongoDB final project I decided to analyze data for Milwaukee, WI. Here is the link to my dataset: https://www.openstreetmap.org/relation/251075. I chose Milwaukee, WI because I grew up there and am very familiar with nearly every corner of the city. It is a large city so I knew I would have enough data to work with, yet small enough where I wouldn't need to limit my data due to memory and/or time constraints.
